@@ -1,5 +1,4 @@
 import react from 'react';
-// import './ProfileSummary.scss';
 const ProfileSummary: React.FC = () => (
     <section className="Profile">
         <h2>Profile Summary</h2>
