@@ -12,7 +12,7 @@ import Skills from './components/Skills';
 const App: React.FC = () => {
   return (
     <div className="app">
-      <DisableCopy />
+      {/* <DisableCopy /> */}
       <Header />
       <main>
         <AboutMe />

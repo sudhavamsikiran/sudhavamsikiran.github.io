@@ -6,12 +6,13 @@
   h1 {
     margin: 0;
     font-size: 2.5em;
+    color: #de342e;
   }
 
   h2 {
     margin: 5px 0;
     font-size: 1.5em;
-    color: #555;
+    color: #de342e;
   }
 
   p {
@@ -21,6 +22,15 @@
 
   nav a {
     margin: 0 10px;
-    font-size: 0.9em;
+    font-size: 1.5em;
+    color: #2e86de;
+    font-weight: bold;
+    
+  }
+  text {
+    color: #de342e;
+    font-size: 1.5em;
+    font-weight: bold;
+    unicode-bidi: isolate;
   }
 }

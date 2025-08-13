@@ -6,7 +6,13 @@ const ProfileSummary: React.FC = () => (
     <ul>
         <li>
             <strong>Senior Enterprise Architect</strong> with ~19 years of success delivering transformative 
-            architecture strategies; currently leading enterprise architecture as <strong>Chapter Lead at Commonwealth Bank of Australia</strong>, shaping innovation in financial services.
+            architecture strategies shaping innovation in financial services.
+           
+        </li>
+        <li>
+            <strong>Enterprise Architecture & Governance:</strong>  <strong>TOGAF-certified expert </strong>specializing in 
+            <strong>COBIT, ITIL frameworks,EAM frameworks, IT governance, compliance, and risk management, expertise in ITSM (ITIL)</strong> across complex IT environments.
+            Skilled in applying <strong>TOGAF ADM phases to optimize business, data, and technology architectures, achieving a 40% reduction in technical inconsistencies</strong>.
         </li>
         <li>
             <strong>Technology visionary</strong> with deep experience in designing secure, scalable, cloud-native 
@@ -21,24 +27,7 @@ const ProfileSummary: React.FC = () => (
             <strong>Executive-level partner & cross-functional leader</strong>, trusted to drive strategic initiatives, 
             foster stakeholder alignment, and deliver cohesive, future-proof architectures.
         </li>
-        {/* <li>
-            Expertise in integrating <strong>AI, IoT, DevSecOps, and Zero Trust security</strong> to boost system 
-            performance by <strong>40%</strong>, improve observability, and enhance cyber resilience.
-        </li>
-        <li>
-            <strong>Champion of architectural governance & innovation forums</strong>, ensuring alignment with evolving 
-            regulatory, security, and compliance landscapes.
-        </li>
-        <li>
-            <strong>Passionate mentor & team builder</strong>, dedicated to developing high-performing architects & engineers 
-            to deliver impactful business outcomes.
-        </li>
-         <h2>Key hightlights</h2> */}
-        <li>
-            <strong>Enterprise Architecture & Governance:</strong> TOGAF-certified expert specializing in 
-            IT governance, risk management, COBIT, ITIL frameworks, and TOGAF methodologies to align business objectives 
-            with scalable technology solutions.
-        </li>
+        
         <li>
             <strong>Cloud-Native Solutions:</strong> Designed and architected cloud-native platforms using 
             Microsoft Azure, AWS, Azure AI, and Generative AI models, IoT, and DevSecOps best practices, 
